@@ -1,0 +1,4 @@
+Model,Total Gen.,Unique Gen.,Novel Count,Novelty Rate,Diversity Score,Bigram Overlap,Trigram Overlap,Avg Length
+rnn_vanilla,500,488,480,96.00%,97.60%,85.07%,69.35%,6.35
+blstm,496,455,496,100.00%,91.73%,62.08%,24.79%,5.5
+rnn_attention,500,129,500,100.00%,25.80%,65.89%,18.68%,3.47

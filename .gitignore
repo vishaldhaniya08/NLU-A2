@@ -1,0 +1,16 @@
+# Ignore PDFs
+*.pdf
+
+# Virtual environment
+nlu_env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model checkpoints
+problem 2/outputs/checkpoints/
+
+# Ignore models
+*.pt
+*.model
